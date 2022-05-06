@@ -126,3 +126,7 @@ color: #8b91c9;
 .main .banner .contenedor .banner-principal{
   width: 100%;
 }
+
+.main .banner .contenedor .banner-principal img{
+  width: 100%;
+}
