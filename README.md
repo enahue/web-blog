@@ -1,1 +1,1 @@
-#### Blog usando HTML y CSS
+#### Blog personal usando HTML y CSS
