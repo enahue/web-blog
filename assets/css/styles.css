@@ -118,6 +118,7 @@ color: #8b91c9;
   color: #8b9190;
 }
 
+/*Main*/
 .main .banner{
   padding-bottom: 20px;
   border-bottom: 1px solid #f0f0f0;
@@ -129,4 +130,11 @@ color: #8b91c9;
 
 .main .banner .contenedor .banner-principal img{
   width: 100%;
+}
+
+/*Blog*/
+
+.blog{
+  background: #f7f7f7;
+  padding: 40px 0;
 }
