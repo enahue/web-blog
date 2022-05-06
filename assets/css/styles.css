@@ -138,3 +138,121 @@ color: #8b91c9;
   background: #f7f7f7;
   padding: 40px 0;
 }
+
+.blog .contenedor{
+  overflow: hidden;
+}
+
+/*Articulos*/
+.blog .contenedor .articulos-blog{
+  float: left;
+  width: 68%;
+}
+
+.blog .contenedor .articulos-blog .articulo{
+  background-color: #fff;
+  padding: 60px 0;
+  border: 1px solid #f0f0f0;
+  margin-bottom: 20px;
+}
+
+.blog .contenedor .articulos-blog .articulo .fecha-articulo{
+  color: #c7c7c7;
+  font-size: 16px;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.blog .contenedor .articulos-blog .articulo .titulo-articulo{
+  color: #363940;
+  font-size: 26px;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.blog .contenedor .articulos-blog .articulo .categoria-articulo{
+  color: #9c9c9c;
+  font-size: 14px;
+  font-weight: bold;
+  text-align: center;
+  margin-bottom: 40px;
+}
+
+.blog .contenedor .articulos-blog .articulo img{
+  width: 100%;
+  margin-bottom: 20px;
+}
+
+.blog .contenedor .articulos-blog .articulo .texto-articulo{
+  padding: 0 20px;
+  text-align: justify;
+}
+
+.blog .contenedor .articulos-blog .articulo .texto-articulo p{
+  margin-bottom: 20px;
+  color: #363940;
+}
+
+.blog .contenedor .articulos-blog .articulo .boton{
+text-align: center;
+}
+
+.blog .contenedor .articulos-blog .articulo .boton a{
+  text-decoration: none;
+  display: inline-block;
+  padding: 15px 20px;
+  background: none;
+  border: 1px solid #7d7d7d;
+}
+
+.blog .contenedor .articulos-blog .articulo .boton a:hover{
+  background-color: #7d7d7d;
+  color: #fff;
+}
+
+/*Aside*/
+
+.aside{
+  float: right;
+  width: 28%;
+}
+
+.aside .widget{
+  background: #fff;
+  padding: 40px;
+  margin-bottom: 20px;
+  border: 1px solid #f0f0f0;
+}
+
+.aside .widget .autor-widget .foto-autor{
+  text-align: center;
+  margin-bottom: 10px;
+}
+
+.aside .widget .autor-widget .foto-autor img{
+  width: 150px;
+  height: 140px;
+  border-radius: 48%;
+}
+
+.aside .widget .autor-widget .datos-autor{
+  text-align: center;
+}
+
+.aside .widget .autor-widget .datos-autor .nombre{
+  color: #363940;
+  font-size: 26px;
+  margin-bottom: 10px;
+}
+
+.aside .widget .autor-widget .datos-autor .profesion{
+  color: #9c9c9c;
+  font-size: 16px;
+  margin-bottom: 20px;
+}
+
+.aside .widget .autor-widget .datos-autor .info{
+  color: #363940;
+  font-size: 16px;
+  margin-bottom: 10px;
+}
