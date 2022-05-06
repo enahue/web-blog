@@ -117,3 +117,12 @@ color: #8b91c9;
 .menu-principal .contenedor ul li a:hover{
   color: #8b9190;
 }
+
+.main .banner{
+  padding-bottom: 20px;
+  border-bottom: 1px solid #f0f0f0;
+}
+
+.main .banner .contenedor .banner-principal{
+  width: 100%;
+}
