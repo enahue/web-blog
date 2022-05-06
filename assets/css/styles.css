@@ -69,3 +69,51 @@ color: #8b91c9;
   margin: 35px 0;
   text-align: center;
 }
+
+.titulo-blog .contenedor h1 a{
+  text-decoration: none;
+  color: #363940;
+  font-size: 60px;
+  display: inline-block;
+  padding: 30px 0;
+  font-weight: 300;
+}
+
+.titulo-blog .contenedor h1 a:hover{
+  color: #8b919c;
+}
+
+.titulo-blog .contenedor .subtitulo{
+  font-size: 16px;
+  letter-spacing: 1px;
+  color: #c7c7c7;
+}
+
+/*Menu principal*/
+.menu-principal{
+  margin-bottom: 40px;
+  border-top: 1px solid #f0f0f0;
+  border-bottom: 1px solid #f0f0f0;
+  text-align: center;
+  padding: 10px 0;
+}
+.menu-principal .contenedor ul{
+  list-style: none;
+  display: inline-block;
+  margin: 0 auto;
+}
+
+.menu-principal .contenedor ul li{
+  display: inline-block;
+}
+
+.menu-principal .contenedor ul li a{
+  display: inline-block;
+  padding: 10px 20px;
+  text-decoration: none;
+  color: #363940;
+}
+
+.menu-principal .contenedor ul li a:hover{
+  color: #8b9190;
+}
